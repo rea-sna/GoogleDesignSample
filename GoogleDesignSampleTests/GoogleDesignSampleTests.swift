@@ -2,7 +2,7 @@
 //  GoogleDesignSampleTests.swift
 //  GoogleDesignSampleTests
 //
-//  Created by 繁野怜央 on 20200806.
+//  Created by Reo.Son 20200806.
 //  Copyright © 2020 Reo.S. All rights reserved.
 //
 
